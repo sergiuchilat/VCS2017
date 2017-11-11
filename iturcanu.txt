@@ -1,0 +1,7 @@
+@Secured({"ROLE_USER", "ROLE_ADMIN"})
+	@RequestMapping(value="/editBook/{id}", method = RequestMethod.GET)
+	public String editBook(@PathVariable("id") Long id, Model model){		
+		model.addAttribute("book", libraryService.getBookById(id));
+		model.addAttribute("genres", libraryService.getAllGenre());
+		return "addBook";
+	}
