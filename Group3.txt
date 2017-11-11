@@ -1,5 +1,9 @@
 Line 1
 Line 2
+<<<<<<< HEAD
 nicu boevicu
+=======
+am modificat linia 3
+>>>>>>> 1b195730ff7e8a29561964bef5c09fb120a37088
 Line 4
 Line 5
