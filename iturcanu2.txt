@@ -3,5 +3,5 @@ adaugat
 ceva
 text
 in
-acest
 fisier
+aici este o linie noua
