@@ -1,5 +1,10 @@
 Line 1
+<<<<<<< HEAD
 Line 2
+=======
+GiHub Master pe facut greseli!!
+dsdsdswwedwds
+>>>>>>> 7621ff98c1f9e7cb05ed7673385fb159ace68183
 Line 3
 Line 4
 Line 5
