@@ -1,3 +1,17 @@
-# Sadovnic Ilia #
+# Sadocnic Ilia #
 ###################
-*.jpg
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# VCS2017 #
+###################
+*.gitignore
+*.class
+*.dll
+*.exe
+*.o
+*.so
