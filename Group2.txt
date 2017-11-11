@@ -1,7 +1,11 @@
 Line 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 Line 2
 =======
+=======
+Linia a 2 a fost stearsa si inlocuita cu acest text
+>>>>>>> c4d317d20c1793b624a7f3b941aed601aaf3271d
 GiHub Master pe facut greseli!!
 dsdsdswwedwds
 >>>>>>> 7621ff98c1f9e7cb05ed7673385fb159ace68183

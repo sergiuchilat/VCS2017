@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 ,,,,,,,,,,,,,,,,,,,,,
-=======
 Nicky love GIT!
 Modified by Scerbin C.
->>>>>>> 7621ff98c1f9e7cb05ed7673385fb159ace68183
 Line 2
 Line 3
 Line 4
