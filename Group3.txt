@@ -1,5 +1,6 @@
 Line 1
 Line 2
+Vsem stavliu 10
 am modificat linia 3
 Line 4
 Line 5
